@@ -1,0 +1,13 @@
+.table {
+  .cellWrapper {
+    display: flex;
+    align-items: center;
+
+    .image {
+      width: 42px;
+      height: 42px;
+      margin-right: 10px;
+      object-fit: cover;
+    }
+  }
+}
